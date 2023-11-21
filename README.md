@@ -1,3 +1,3 @@
 # portfolio
 live demo
-https://profolio-guttharada.onrender.com
+https://portfolio-guttharada.onrender.com
